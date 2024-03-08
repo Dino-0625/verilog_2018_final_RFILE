@@ -1,0 +1,82 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final
+vRFILE
+Z1 !s110 1705317536
+!i10b 1
+!s100 8[`l@?A`60FY;hRzfVY=h1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IN4o=:3SRDD>i@ImF5gT:01
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1705317532
+8C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/RFILE.v
+FC:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/RFILE.v
+!i122 772
+L0 34 554
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1705317536.000000
+!s107 C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/RFILE.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/RFILE.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@r@f@i@l@e
+vTABLE
+R1
+!i10b 1
+!s100 i@6jjlBM9CHS=7??E>1DR0
+R2
+I99J[B>FIUmX_`>Dkad1g53
+R3
+R0
+w1704607795
+8./table.v
+F./table.v
+!i122 774
+L0 1 4108
+R4
+r1
+!s85 0
+31
+R5
+!s107 ./table.v|C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/testfixture.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/testfixture.v|
+!i113 1
+R6
+R7
+n@t@a@b@l@e
+vtest
+R1
+!i10b 1
+!s100 54gV5bPZX@n?kcJjcLW9>0
+R2
+IkR8A5n^U=eKz]3d0Cm^[31
+R3
+R0
+w1705316782
+8C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/testfixture.v
+FC:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/testfixture.v
+!i122 774
+L0 8 181
+R4
+r1
+!s85 0
+31
+R5
+Z9 !s107 ./table.v|C:/verilog/20240107_RFILE/B_ICC2018_grad_cell-based_final/testfixture.v|
+R8
+!i113 1
+R6
+R7
